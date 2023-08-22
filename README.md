@@ -1,5 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Destini
 
@@ -45,7 +44,6 @@ In this app, you will be creating a “choose your own adventure” game similar
             choice2: "End", choice2Destination: 0
         )      
 ```
-
+![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
