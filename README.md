@@ -19,7 +19,7 @@
 *Comparing Swift Classes with Swift Structs, knowing when to use which.
 
 
-Refactoring code and staying organized.
+
 ![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
 
 
